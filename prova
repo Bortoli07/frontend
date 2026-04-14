@@ -1,0 +1,26 @@
+faça um programa que mostre um parágrafo com a frase "hoje eu estou fazendo a prova de front-end" sendo que a palavra hoje deve estar em negrito, estou em itático, a palavra prova marcado com a cor verde e front-end como um texto inserido
+*
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>prova</title>
+    <style>
+mark {
+    background-color: #117508;
+    color: rgb(245, 245, 245);
+}
+
+
+
+
+    </style>
+</head>
+<body>
+    <p>
+<strong>hoje</strong> eu <em>estou</em> fazendo a <mark>prova</mark> de <ins>Fronte-End</ins>
+    </p>
+    
+</body>
+</html>
