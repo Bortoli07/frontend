@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>projeto Historia da Ford</title>
+</head>
+<body>
+    <header>
+        <h1>Historia da Ford</h1>
+        <p>Tudo o que você sempre quis saber sobre o mundo Ford, em um só lugar.</p>
+        </header>
+        <nav>
+            <a href="#">pagina principal</a>
+            <a href="#">carros</a>
+            <a href="#">lojas</a>
+            </nav>   
+            
+</body>
+</html>
