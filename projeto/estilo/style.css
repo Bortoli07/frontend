@@ -66,4 +66,8 @@ box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.167);
 }
 nav> a{
     color: var(--cor1);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
     }
